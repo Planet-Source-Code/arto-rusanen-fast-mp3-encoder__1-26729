@@ -1,0 +1,5 @@
+modLAME = -9, 31, 809, 708, C
+Form1 = 16, 49, 806, 608, , 22, 22, 600, 546, C
+modGeneral = 113, -4, 702, 590, C
+modErrHandler = 174, 3, 820, 527, C
+clsFileIo = 22, 82, 770, 606, C
